@@ -1,7 +1,5 @@
-Hello
+This program was made by Jack Molinari working solo. 
 
-This is hangman
+It's a straightforward hangman program with some tricky words built in to the default list. You're welcome to add or remove words as you please from the words array.
 
-There are some very hard words to guess
-
-Good luck!
+Java 17.0.7
